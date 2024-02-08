@@ -56,6 +56,13 @@ input{
   font-weight: 600;
 }
 
+input:focus::placeholder{
+  position: relative;
+  top: -1rem;
+  left: 0;
+  color: #03a9f4;
+  font-size: 0.59rem;
+}
 
 input::placeholder{
   color: #f7fbfcaa;
@@ -66,6 +73,7 @@ input::placeholder{
 .input-boxes {
   display: flex;
   flex-direction: column;
+  position: absolute;
 }
 
 .input-boxes input{
