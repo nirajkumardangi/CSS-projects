@@ -1,28 +1,22 @@
-# CSS Projects Repository
+# CSS Projects Repository 🎨
 
 Welcome to the CSS Projects repository! Here, I'm expanding my CSS expertise by crafting 20+ projects to showcase various styling techniques and design concepts. Each project within this repository is a testament to my journey in mastering CSS and creating visually stunning web experiences.
 
 ---
 
-## Project 1: [Project Name]
+## Project 1: [Project Name] 💻
 
 Description of the project.
 
 ---
 
-## Project 2: [Project Name]
+## Project 2: [Project Name] 🌟
 
 Description of the project.
 
 ---
 
-## Project 3: [Project Name]
-
-Description of the project.
-
----
-
-## How to Use:
+## How to Use: 🛠️
 
 1. Clone the repository to your local machine:
 git clone https://github.com/nirajkumardangi/cssprojects.git
@@ -33,7 +27,7 @@ git clone https://github.com/nirajkumardangi/cssprojects.git
 
 ---
 
-## Contribution:
+## Contribution: 🤝
 
 Feel free to contribute to this repository by suggesting new project ideas, enhancements, or fixing issues. Fork the repository, make your changes, and submit a pull request.
 
@@ -41,7 +35,7 @@ Let's build an inspiring collection of CSS projects together!
 
 ---
 
-## License:
+## License: 📝
 
 This project is licensed under the [MIT License](LICENSE).
 
