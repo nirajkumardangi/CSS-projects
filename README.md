@@ -4,13 +4,13 @@ Welcome to the CSS Projects repository! Here, I'm expanding my CSS expertise by 
 
 ---
 
-## Project 1: [Project Name] 💻
+## Project 1: Transparent Login form 💻
 
 Description of the project.
 
 ---
 
-## Project 2: [Project Name] 🌟
+## Project 2: Animated Card 🌟
 
 Description of the project.
 
