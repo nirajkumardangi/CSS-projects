@@ -6,13 +6,13 @@ Welcome to the CSS Projects repository! Here, I'm expanding my CSS expertise by 
 
 ## Project 1: Transparent Login form 💻
 
-Description of the project.
+A sleek and modern transparent login form designed using CSS, providing a seamless user authentication experience.
 
 ---
 
 ## Project 2: Animated Card 🌟
 
-Description of the project.
+An animated card component created with CSS. This card showcases smooth transitions and engaging visual effects, enhancing user interaction and interface aesthetics.
 
 ---
 
