@@ -6,7 +6,7 @@ Welcome to the CSS Projects repository! Here, I'm expanding my CSS expertise by 
 
 ## Project 1: Transparent Login form 💻
 
-A sleek and modern transparent login form designed using CSS, providing a seamless user authentication experience.
+A modern login form with a transparent background, designed to provide users with a clean and intuitive interface for logging into websites or applications.
 
 ---
 
