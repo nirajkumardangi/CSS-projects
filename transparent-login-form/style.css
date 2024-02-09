@@ -8,7 +8,7 @@ html {
 body {
   background: url('https://images.pexels.com/photos/1563356/pexels-photo-1563356.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2') center/cover no-repeat fixed;
   font-family: poppins, sans-serif;
-  color: #ffffff;
+  color: aqua;
 }
 
 form {
@@ -18,12 +18,22 @@ form {
   transform: translate(-50%, -50%);
   width: 320px;
   height: 425px;
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0);
   border-radius: 10px;
   box-shadow: 0 4px 15px 0px rgb(0, 0, 0), 0 4px 20px 0px rgb(0, 0, 0);
   padding: 25px;
-  /* background-color: rgba(255,255,255,0.13); */
-  backdrop-filter: blur(1px);
+  backdrop-filter: blur(2px);
+}
+
+body::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.3);
+  z-index: -1;
 }
 
 .switch-button {
@@ -48,9 +58,9 @@ form {
 
 input {
   background-color: transparent;
-  color: #ffffff;
+  color: aqua;
   border: 0;
-  border-bottom: 3px solid #ffffffe7;
+  border-bottom: 3px solid aqua;
   outline: none;
   font-size: 1rem;
   font-weight: 600;
@@ -65,7 +75,7 @@ input:focus::placeholder {
 }
 
 input::placeholder {
-  color: #f7fbfcaa;
+  color: rgba(157, 255, 255, 0.821);
   font-size: 0.899rem;
   font-weight: 600;
   padding: 6px;
