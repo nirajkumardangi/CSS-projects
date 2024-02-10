@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Responsive navbar</title>
+  <script src="https://kit.fontawesome.com/6f1001f086.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <nav>
+    <ul>
+      <li><a href="#" id="logo">LOGO</a></li>
+      <li class="hideOnMobile"><a href="#">home</a></li>
+      <li class="hideOnMobile"><a href="#">menu</a></li>
+      <li class="hideOnMobile"><a href="#">contact</a></li>
+      <li class="hideOnMobile"><a href="#">about</a></li>
+      <li class="hideOnMobile"><a href="#">sitemap</a></li>
+      <li class="menu-button" onclick="showSidebar()"><a class="fa-solid fa-bars"></a></li>
+    </ul>
+    <ul id="sidebar">
+      <li onclick="hideSidebar()"><a class="fa-solid fa-x" ></a></li>
+      <li><a href="#">home</a></li>
+      <li><a href="#">menu</a></li>
+      <li><a href="#">contact</a></li>
+      <li><a href="#">about</a></li>
+      <li><a href="#">sitemap</a></li>
+    </ul>
+  </nav>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
